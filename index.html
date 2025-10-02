@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <title id="page-title">Arcana Calculator | Main Menu</title>
+
+  <!-- Theme / PWA -->
+  <meta name="theme-color" content="#FCFDF5">
+  <meta name="apple-mobile-web-app-title" content="PAC">
+  <link rel="manifest" href="./favicon/site.webmanifest">
+  <meta name="msapplication-TileColor" content="#FCFDF5">
+  <meta name="msapplication-TileImage" content="./favicon/mstile-150x150.png">
+
+  <!-- SEO -->
+  <meta name="description" content="Arcana Calculator — Discover your Arcana based on your date of birth and explore related Persona characters.">
+  <meta name="keywords" content="Persona, Arcana, Persona 3, Persona 4, Persona 5, tarot, calculadora arcana, Shin Megami Tensei">
+  <meta name="author" content="Lady Nelliel">
+
+  <!-- Open Graph -->
+  <meta property="og:locale" content="en">
+  <meta property="og:site_name" content="Persona Arcana Calculator">
+  <meta property="og:title" content="Persona Arcana Calculator">
+  <meta property="og:description" content="Discover your Arcana and see which characters share it.">
+  <meta property="og:image" content="https://res.cloudinary.com/dhbrdf1p8/image/upload/v1759426406/Untitled164_20251002143301_ndkgrb.jpg">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Persona Arcana Calculator">
+  <meta name="twitter:description" content="Discover your Arcana and see related characters from the Persona universe.">
+  <meta name="twitter:image" content="https://res.cloudinary.com/dhbrdf1p8/image/upload/v1759426406/Untitled164_20251002143301_ndkgrb.jpg">
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" href="./favicon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/svg+xml" href="./favicon/favicon.svg">
+  <link rel="shortcut icon" href="./favicon/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+
+  <!-- CSS -->
+  <link rel="preload" href="./css/main.css" as="style">
+  <link rel="stylesheet" href="./css/main.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ['Inter', 'sans-serif'] },
+          colors: {
+            'persona-dark': '#0c0c0c',
+            'persona-header': '#111111',
+            'persona-card': '#1e1e1e',
+            'persona-red': '#ef4444',
+            'persona-yellow': '#f59e0b',
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Persona Arcana Calculator",
+      "description": "Discover your Persona Arcana and see which characters share it.",
+      "applicationCategory": "Utility",
+      "operatingSystem": "All"
+    }
+  </script>
+</head>
+<body class="min-h-screen">
+  <!-- Header -->
+  <header class="fixed top-0 left-0 w-full z-10 p-4 header-shadow header-glass">
+    <div class="max-w-7xl mx-auto flex justify-between items-center text-center">
+      <a href="#home" class="text-2xl font-black tracking-widest text-white hover:text-persona-red transition duration-150" onclick="navigate('home')">
+        PERSONA ARCANA CALCULATOR
+      </a>
+      <nav class="space-x-4 text-sm font-medium hidden sm:block">
+        <a href="#calculate" class="text-gray-300 hover:text-persona-red transition" onclick="navigate('calculate')">Calculate</a>
+        <a href="#view_arcana" class="text-gray-300 hover:text-persona-yellow transition" onclick="navigate('view_arcana')">See Arcana</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main -->
+  <main id="app-container" class="max-w-7xl mx-auto p-4 sm:p-6 lg:p-8">
+    <p class="text-center text-gray-500 mt-20">Loading application...</p>
+  </main>
+
+  <!-- Scripts -->
+  <script src="./js/Data.js"></script>
+  <script src="./js/Logic.js"></script>
+  <script src="./js/Render.js"></script>
+  <script src="./js/Handlers.js"></script>
+  <script src="./js/Router.js"></script>
+  <script src="./js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Ver Arcanas</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1><a href="index.html">Persona Arcana Calculator</a></h1>
+  <nav>
+    <a href="calculate.html">Calcular</a>
+    <a href="view_arcana.html">Ver Arcanas</a>
+  </nav>
+</header>
+
+<main>
+  <div class="card">
+    <h2>Lista de Arcanas</h2>
+    <div id="arcanas-grid"></div>
+  </div>
+
+  <div class="card hidden" id="arcana-detail">
+    <button id="back-to-grid" class="btn">← Voltar</button>
+    <h3 id="detail-name"></h3>
+    <img id="detail-image" alt="Arcana">
+    <p>Número: <span id="detail-number"></span></p>
+    <h4>Personagens:</h4>
+    <div id="detail-characters" class="related-list"></div>
+  </div>
+</main>
+
+<footer>
+  <p>© Persona Arcana Project</p>
+</footer>
+
+<script src="js/data_arcanas.js"></script>
+<script src="js/data_characters.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
