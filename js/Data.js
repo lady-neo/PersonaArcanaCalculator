@@ -1,6 +1,6 @@
 const ARCANAS_DATA = {
   0: { name: "The Fool", image_url: "images/tarot/0.png" },
-  1: { name: "The Magician", image_url: "/imagestarot/1.png" },
+  1: { name: "The Magician", image_url: "images/tarot/1.png" },
   2: { name: "The High Priestess", image_url: "images/tarot/2.png" },
   3: { name: "The Empress", image_url: "images/tarot/3.png" },
   4: { name: "The Emperor", image_url: "images/tarot/4.png" },
@@ -9,7 +9,7 @@ const ARCANAS_DATA = {
   7: { name: "The Chariot", image_url: "images/tarot/7.png" },
   8: { name: "Justice", image_url: "images/tarot/8.png" },
   9: { name: "The Hermit", image_url: "images/tarot/9.png" },
-  10: { name: "Wheel of Fortune", image_url: "/images/tarot/10.png" },
+  10: { name: "Wheel of Fortune", image_url: "images/tarot/10.png" },
   11: { name: "Strength", image_url: "images/tarot/11.png" },
   12: { name: "The Hanged Man", image_url: "images/tarot/12.png" },
   13: { name: "Death", image_url: "images/tarot/13.png" },
