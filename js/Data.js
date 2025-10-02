@@ -395,4 +395,8 @@ const CHARACTERS_DATA = [
 
   // And Igor
   { name: "Igor", game: "All", arcana: [0], char_image: "images/igor.png" }
+<<<<<<< HEAD
 ];
+=======
+];
+>>>>>>> 68cfd7f6f06461c0939d73f3218869e512cc26e0
