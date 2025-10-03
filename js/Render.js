@@ -7,7 +7,7 @@ function renderFooter() {
         © 2025 <a href="https://github.com/lady-neo" class="hover:text-white underline">Lady Nelliel</a> – All rights reserved
       </p>
       <p>
-        Want to contribute to the project? Check the <a href="https://github.com/lady-neo/PersonaArcanaCalculator">GitHub Repo</a>
+        Want to contribute to the project? Check the <a href="https://github.com/lady-neo/PersonaArcanaCalculator" class="hover:text-white underline">GitHub Repo</a>
       </p>
     </footer>
   `;
