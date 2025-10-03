@@ -404,6 +404,12 @@ const CHARACTERS_DATA = [
     arcana: [2],
     char_image: "images/makoto.png"
   },
+  {
+    name: "Sadayo Kawakami",
+    game: "Persona 5",
+    arcana: [14],
+    char_image: "images/sadayo.png"
+  },
 
   // And Igor
   { name: "Igor", game: "All", arcana: [0], char_image: "images/igor.png" }
