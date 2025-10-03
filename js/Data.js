@@ -309,6 +309,12 @@ const CHARACTERS_DATA = [
 
   // Persona 5
   {
+    name: "Sadayo Kawakami",
+    game: "Persona 5",
+    arcana: [14],
+    char_image: "images/sadayo.png"
+  },
+  {
     name: "Ryuji Sakamoto",
     game: "Persona 5",
     arcana: [7],
