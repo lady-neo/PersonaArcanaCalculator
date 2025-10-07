@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /README.md
+Disallow: /LICENSE
+
+Sitemap: https://persona-arcana-calculator.vercel.app/sitemap.xml

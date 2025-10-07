@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://persona-arcana-calculator.vercel.app</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://persona-arcana-calculator.vercel.app/</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://persona-arcana-calculator.vercel.app/#home</loc>
+        <priority>1.0</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://persona-arcana-calculator.vercel.app/#calculate</loc>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=0</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=1</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=2</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=3</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=4</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=5</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=6</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=7</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=8</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=9</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=10</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=11</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=12</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=13</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=14</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=15</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=16</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=17</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=18</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=19</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=20</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#calculate?result=21</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+
+    <url>
+        <loc>https://persona-arcana-calculator.vercel.app/#view_arcana</loc>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=0</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=1</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=2</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=3</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=4</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=5</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=6</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=7</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=8</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=9</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=10</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=11</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=12</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=13</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=14</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=15</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=16</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=17</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=18</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=19</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=20</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    <url><loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=21</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+    
+    <url>
+        <loc>https://persona-arcana-calculator.vercel.app/#view_arcana?arcana=99</loc>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+</urlset>
