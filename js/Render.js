@@ -4,7 +4,7 @@ function renderFooter() {
   return `
     <footer class="mt-12 bg-black/50 backdrop-blur-md text-gray-400 text-sm text-center p-4 border-t border-white/10 rounded-t-xl">
       <p>
-        © 2025 <a href="https://github.com/lady-neo" class="hover:text-white underline">Lady Nelliel</a> – All rights reserved
+        © 2025 <a href="https://github.com/lady-neo" class="hover:text-white underline">Thavinny "Neo" Pires</a> – All rights reserved
       </p>
       <p>
         Want to contribute to the project? Check the <a href="https://github.com/lady-neo/PersonaArcanaCalculator" class="hover:text-white underline">GitHub Repo</a>
